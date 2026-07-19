@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello World! 🚀
 
-<!--
-**Cri-Repos/Cri-Repos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Cristóbal, a Cybersecurity Analyst based in Chile.
 
-Here are some ideas to get you started:
+I'm passionate about finding vulnerabilities. If you want to harden your project or talk shop about security, feel free to reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 What I Do Here:
+
+- 🛠️ Labs: I build custom Docker environments with specific vulnerabilities to exploit and analyze them. I'll be sharing those environments here.
+
+- 🔬 Research: Deep dives into those Docker labs and real-world CVEs to understand exactly how they work under the hood.
+
+- ⚙️ Tools: I occasionally code my own tools to automate and optimize my vulnerability-hunting workflow, and I'll be open-sourcing them here.
+
+I hope the projects and explanations you find here help you in some way!
